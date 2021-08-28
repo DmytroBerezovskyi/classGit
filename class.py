@@ -13,4 +13,5 @@ trgrtgrrtsss'
 print(s)
 
 input(a)
+if a>0 than input a=print('pls enter a =')
 
